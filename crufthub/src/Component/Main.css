@@ -1,0 +1,25 @@
+.main{
+  
+    padding: 10px;
+}
+.COL1 {
+    width: 700px;
+    text-align: left;
+    margin-top: 105px;
+}
+.COL1 p {
+    width: 363px;
+}
+.links{
+    margin: 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.photo {
+    height: 365px;
+    width: 389px;
+}   
+.DynamicsSales{
+    display: flex;
+    justify-content: center;
+}

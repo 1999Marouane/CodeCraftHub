@@ -1,5 +1,41 @@
+body{
+
+
+}
+.haider{
+  
+  display: flex;
+  justify-content: space-between;
+  margin: 11px;
+  align-items: center;
+  font-style: italic;
+}
+.haider input {
+  width: 378px;
+  border-radius: 8px 0px 0px 8px;
+  padding: 6px;
+  border: none;
+}
+.haider button {
+  /* margin: 6px; */
+  height: 36px;
+  margin-left: 5px;
+  border: none;
+  border-radius: 0px 8px 8px 0px;
+  width: 85px;
+  font-style: italic;
+}
+
 .App {
   text-align: center;
+  background-color: #2B2A2F;
+  color: white;
+
+}
+.project{
+  padding: 30px;
+  display: flex;
+  justify-content: center;
 }
 
 .App-logo {
